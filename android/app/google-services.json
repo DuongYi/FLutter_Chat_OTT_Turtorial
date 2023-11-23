@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162657135441",
+    "project_id": "ez-chat-90c6f",
+    "storage_bucket": "ez-chat-90c6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162657135441:android:2330d609e3319111840170",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEtr1CyN0rV5sJYkF4EivGA3Rf1Ml8Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162657135441:android:bf92adea3a26b0ef840170",
+        "android_client_info": {
+          "package_name": "com.test.ez_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEtr1CyN0rV5sJYkF4EivGA3Rf1Ml8Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
